@@ -18,6 +18,7 @@ class ScreenHome extends StatelessWidget {
             Icon(Icons.share),
             SizedBox(width: 30,),
             Text('Share Dukkan App',style: TextStyle(fontSize: 20),),
+            
             SizedBox(width: 90,),
             Icon(Icons.arrow_forward_ios_outlined)
           ],),
